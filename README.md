@@ -1,3 +1,10 @@
+<div align="center">
+
+  <h1><strong>ARSALAN AYUB</strong></h1>
+  <h3>Aspiring Software Developer</h3>
+
+</div>
+
 # 💫 About Me:
 I'm currently working on a chat app backend personal project<br>I'm looking to collaborate on cloud with backend projects<br>I'm looking for help with career start<br>I'm currently learning SQL<br>Ask me about my journey<br>I'm mix of foodi + gym
 
